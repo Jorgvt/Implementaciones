@@ -14,7 +14,7 @@ format:
     toc: true
 
 website:
-  title: "Implementaciones"
+  title: "implementaciones"
   description: "Implementaciones de algunos algoritmos en PyTorch. Principalmente basados en las implementaciones de LabML."
   execute: 
     enabled: false
